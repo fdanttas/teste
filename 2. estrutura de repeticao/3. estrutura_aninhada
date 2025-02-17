@@ -1,0 +1,15 @@
+import os
+os.system ("Clear")
+
+idade = 18
+
+if idade < 12:
+    print("Acesso negado.")
+elif idade < 18:
+    print("Somente com permisao dos pais.")
+else:
+    print("Acesso permitido")
+    
+        
+
+print("== FIM ==")    
