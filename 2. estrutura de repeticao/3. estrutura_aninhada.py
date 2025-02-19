@@ -1,5 +1,5 @@
 import os
-os.system ("Clear")
+os.system("clear")
 
 idade = 18
 
